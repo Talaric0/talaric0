@@ -44,7 +44,7 @@ My name is Bruno Talarico, a 🇧🇷 software engineer living in London.
 ![Heroku]( https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-React-black?style=flat-square&logo=redux)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
