@@ -23,6 +23,12 @@ My name is Bruno Talarico, a 🇧🇷 software engineer living in London.
 
 ### Connect with me
 
+👇 Hit in your console or terminal to check my npx business card.
+
+```bash
+npx talaric0
+```
+
 [![Linkedin: BrunoTalarico]( https://img.shields.io/badge/Bruno%20Talarico%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-talarico-4421741ab/)](https://www.linkedin.com/in/bruno-talarico-4421741ab/)
 
 [![GitHub Talaric0]( https://img.shields.io/badge/Talaric0%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/talaric0)
