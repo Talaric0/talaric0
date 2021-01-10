@@ -30,7 +30,7 @@ My name is Bruno Talarico, a 🇧🇷 software engineer living in London.
 ### GitHub Stats and Most Used Languages
 
 ![Github stats]( https://github-readme-stats.vercel.app/api?username=talaric0&hide=issues,stars&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=talaric0&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/talaric0/github-readme-stats)
+[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=talaric0&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/talaric0/github-readme-stats)
 
 ## Tech Skills
 
