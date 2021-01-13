@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
+
 ### Hi, there! 👋
 
 My name is Bruno Talarico, a 🇧🇷 software engineer living in London.
