@@ -39,6 +39,60 @@ npx talaric0
 [![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=talaric0&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/talaric0/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+🌆 Daytime    82 commits     ██████████░░░░░░░░░░░░░░░   40.39% 
+🌃 Evening    117 commits    ██████████████░░░░░░░░░░░   57.64% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
+Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+Wednesday    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
+Thursday     53 commits     ██████░░░░░░░░░░░░░░░░░░░   26.11% 
+Friday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Ruby** 
+
+```text
+Ruby                     8 repos             ███████████░░░░░░░░░░░░░░   47.06% 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 ## Tech Skills
