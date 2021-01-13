@@ -38,6 +38,9 @@ npx talaric0
 ![Github stats]( https://github-readme-stats.vercel.app/api?username=talaric0&hide=issues,stars&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=talaric0&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/talaric0/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Tech Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
