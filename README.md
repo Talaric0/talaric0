@@ -32,6 +32,10 @@ My name is Bruno Talarico, a 🇧🇷 software engineer living in London.
 ```bash
 npx talaric0
 ```
+<br>
+
+👉 [Check out my portifolio page]( https://talarico.dev ) 👈
+
 
 [![Linkedin: BrunoTalarico]( https://img.shields.io/badge/Bruno%20Talarico%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-talarico-4421741ab/)](https://www.linkedin.com/in/bruno-talarico-4421741ab/)
 
