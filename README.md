@@ -41,6 +41,19 @@ npx talaric0
 
 [![GitHub Talaric0]( https://img.shields.io/badge/Talaric0%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/talaric0)
 
+
+### Projects I've made / contributed to...
+
+#### [Indigenius](https://www.indigenius.space/) - [repo](https://github.com/seabass617/indigenius)
+#### [Dream-multiverse-vacations](http://multiverse-vacation.herokuapp.com/) - [repo](https://github.com/Talaric0/dream_multiverse_vacations-1)
+#### [Fake-slack](https://talaric0.github.io/chat-redux/) - [repo](https://github.com/Talaric0/chat-redux)
+#### [React-recipes](https://talaric0.github.io/react-recipes/) - [repo](https://github.com/Talaric0/react-recipes)
+#### [Reac-tac-toe](https://talaric0.github.io/tic-tac-toe/) - [repo](https://github.com/Talaric0/tic-tac-toe)
+#### [React-fake-airbnb](https://talaric0.github.io/react-flats/) - [repo](https://github.com/Talaric0/react-flats)
+#### [React-LeWagon-cities](https://talaric0.github.io/react-redux-wagon-cities/) - [repo](https://github.com/Talaric0/react-redux-wagon-cities)
+#### [React-gifs](https://talaric0.github.io/react-gifs/) - [repo](https://github.com/Talaric0/react-gifs)
+
+
 ### GitHub Stats and Most Used Languages
 
 ![Github stats]( https://github-readme-stats.vercel.app/api?username=talaric0&hide=issues,stars&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&line_height=24.5)
