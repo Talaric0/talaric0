@@ -47,6 +47,7 @@ npx talaric0
 #### [Indigenius](https://www.indigenius.space/) - [repo](https://github.com/seabass617/indigenius)
 #### [Dream-multiverse-vacations](http://multiverse-vacation.herokuapp.com/) - [repo](https://github.com/Talaric0/dream_multiverse_vacations-1)
 #### [Fake-slack](https://talaric0.github.io/chat-redux/) - [repo](https://github.com/Talaric0/chat-redux)
+#### [Fake-zoom](https://zoom-clone-bt.herokuapp.com/pages/home/) - [repo](https://github.com/Talaric0/zoom-clone)
 #### [React-recipes](https://talaric0.github.io/react-recipes/) - [repo](https://github.com/Talaric0/react-recipes)
 #### [Reac-tac-toe](https://talaric0.github.io/tic-tac-toe/) - [repo](https://github.com/Talaric0/tic-tac-toe)
 #### [React-fake-airbnb](https://talaric0.github.io/react-flats/) - [repo](https://github.com/Talaric0/react-flats)
