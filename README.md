@@ -44,13 +44,13 @@ npx talaric0
 
 ### Projects I've made / contributed to...
 
-#### [Chillhopify](https://talaric0.github.io/react-music-player/) - [repo](https://github.com/Talaric0/react-music-player)
-#### [Slack-clone](https://talaric0.github.io/chat-redux/) - [repo](https://github.com/Talaric0/chat-redux)
-#### [Zooom](https://zoom-clone-bt.herokuapp.com/pages/home/) - [repo](https://github.com/Talaric0/zoom-clone)
-#### [React-recipes](https://talaric0.github.io/react-recipes/) - [repo](https://github.com/Talaric0/react-recipes)
-#### [Indigenius](https://www.indigenius.space/) - [repo](https://github.com/seabass617/indigenius)
-#### [Dream-multiverse-vacations](http://multiverse-vacation.herokuapp.com/) - [repo](https://github.com/Talaric0/dream_multiverse_vacations-1)
-#### [Reac-tac-toe](https://talaric0.github.io/tic-tac-toe/) - [repo](https://github.com/Talaric0/tic-tac-toe)
+#### [Chillhopify (React music player)](https://talaric0.github.io/react-music-player/) - [repo](https://github.com/Talaric0/react-music-player)
+#### [Slack-clone (Functional Slack clone)](https://talaric0.github.io/chat-redux/) - [repo](https://github.com/Talaric0/chat-redux)
+#### [Zooom (Functional Zoom clone with video calls and recording)](https://zoom-clone-bt.herokuapp.com/pages/home/) - [repo](https://github.com/Talaric0/zoom-clone)
+#### [React-recipes (React recipes app)](https://talaric0.github.io/react-recipes/) - [repo](https://github.com/Talaric0/react-recipes)
+#### [Indigenius (Ruby on Rails e-commerce app)](https://www.indigenius.space/) - [repo](https://github.com/seabass617/indigenius)
+#### [Dream-multiverse-vacations (Ruby on Rails e-commerce app)](http://multiverse-vacation.herokuapp.com/) - [repo](https://github.com/Talaric0/dream_multiverse_vacations-1)
+#### [Reac-tac-toe (Tic-tac-toe built using React)](https://talaric0.github.io/tic-tac-toe/) - [repo](https://github.com/Talaric0/tic-tac-toe)
 #### [React-fake-airbnb](https://talaric0.github.io/react-flats/) - [repo](https://github.com/Talaric0/react-flats)
 #### [React-LeWagon-cities](https://talaric0.github.io/react-redux-wagon-cities/) - [repo](https://github.com/Talaric0/react-redux-wagon-cities)
 #### [React-gifs](https://talaric0.github.io/react-gifs/) - [repo](https://github.com/Talaric0/react-gifs)
