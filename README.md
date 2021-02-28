@@ -44,6 +44,7 @@ npx talaric0
 
 ### Projects I've made / contributed to...
 
+#### [Take a Walk](https://take-a-walk.vercel.app/) - [repo](https://github.com/Talaric0/take-a-walk)
 #### [Chillhopify (React music player)](https://talaric0.github.io/react-music-player/) - [repo](https://github.com/Talaric0/react-music-player)
 #### [WeMakeMovies (React Filmmaking Portfolio)](https://talaric0.github.io/react-filmmaking-portfolio/) - [repo](https://github.com/Talaric0/react-filmmaking-portfolio)
 #### [GamesHub (React/Redux Games App)](https://games-hub.vercel.app/) - [repo](https://github.com/Talaric0/games-hub)
