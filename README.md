@@ -48,6 +48,7 @@ npx talaric0
 #### [Chillhopify (React music player)](https://talaric0.github.io/react-music-player/) - [repo](https://github.com/Talaric0/react-music-player)
 #### [WeMakeMovies (React Filmmaking Portfolio)](https://talaric0.github.io/react-filmmaking-portfolio/) - [repo](https://github.com/Talaric0/react-filmmaking-portfolio)
 #### [GamesHub (React/Redux Games App)](https://games-hub.vercel.app/) - [repo](https://github.com/Talaric0/games-hub)
+#### [Voice Memo](https://voice-memo.vercel.app/) - [repo](https://github.com/Talaric0/voice-memo)
 #### [Slack-clone (Functional Slack clone)](https://talaric0.github.io/chat-redux/) - [repo](https://github.com/Talaric0/chat-redux)
 #### [Zooom (Functional Zoom clone with video calls and recording)](https://zoom-clone-bt.herokuapp.com/pages/home/) - [repo](https://github.com/Talaric0/zoom-clone)
 #### [React-recipes (React recipes app)](https://talaric0.github.io/react-recipes/) - [repo](https://github.com/Talaric0/react-recipes)
