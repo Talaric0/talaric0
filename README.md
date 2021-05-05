@@ -66,7 +66,7 @@ npx talaric0
 [![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=talaric0&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/talaric0/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
