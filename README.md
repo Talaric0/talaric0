@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 ### Hi, there! 👋
 
-My name is Bruno Talarico, a 🇧🇷 software engineer living in London.
+My name is Bruno Talarico, a full stack developer based in London.
 
-- I've attended Le Wagon's coding bootcamp on 07/2020, and since then I'm working as a Teaching Assistant for them remotely.
+- Teaching Assistant @ [Le Wagon](https://www.lewagon.com/).
 
-- 🔭 I’m currently working on improving my frontend skills with React/Redux.
+- 🔭 I’m currently working on: Mastering React.
 
 
 ### Connect with me
 
-👇 Hit in your console or terminal to check my npx business card.
+👇 Hit in your console or terminal to see my contact info.
 
 ```bash
 npx talaric0
@@ -37,9 +37,7 @@ npx talaric0
 👉 [Check out my portifolio page]( https://talarico.dev ) 👈
 
 
-[![Linkedin: BrunoTalarico]( https://img.shields.io/badge/Bruno%20Talarico%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-talarico-4421741ab/)](https://www.linkedin.com/in/bruno-talarico-4421741ab/)
-
-[![GitHub Talaric0]( https://img.shields.io/badge/Talaric0%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/talaric0)
+[![Linkedin: BrunoTalarico]( https://img.shields.io/badge/Bruno%20Talarico%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-talarico-4421741ab/)](https://www.linkedin.com/in/bruno-talarico-4421741ab/) [![GitHub Talaric0]( https://img.shields.io/badge/Talaric0%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/talaric0)
 
 
 ### Projects I've made / contributed to...
@@ -48,17 +46,19 @@ npx talaric0
 #### [Chillhopify (React music player)](https://talaric0.github.io/react-music-player/) - [repo](https://github.com/Talaric0/react-music-player)
 #### [WeMakeMovies (React Filmmaking Portfolio)](https://talaric0.github.io/react-filmmaking-portfolio/) - [repo](https://github.com/Talaric0/react-filmmaking-portfolio)
 #### [GamesHub (React/Redux Games App)](https://games-hub.vercel.app/) - [repo](https://github.com/Talaric0/games-hub)
-#### [Voice Memo](https://voice-memo.vercel.app/) - [repo](https://github.com/Talaric0/voice-memo)
 #### [Slack-clone (Functional Slack clone)](https://talaric0.github.io/chat-redux/) - [repo](https://github.com/Talaric0/chat-redux)
-#### [Zooom (Functional Zoom clone with video calls and recording)](https://zoom-clone-bt.herokuapp.com/pages/home/) - [repo](https://github.com/Talaric0/zoom-clone)
+#### [Zoom-clone (Functional Zoom clone with video calls and recording)](https://zoom-clone-bt.herokuapp.com/pages/home/) - [repo](https://github.com/Talaric0/zoom-clone)
 #### [React-recipes (React recipes app)](https://talaric0.github.io/react-recipes/) - [repo](https://github.com/Talaric0/react-recipes)
 #### [Indigenius (Ruby on Rails e-commerce app)](https://www.indigenius.space/) - [repo](https://github.com/seabass617/indigenius)
 #### [Dream-multiverse-vacations (Ruby on Rails e-commerce app)](http://multiverse-vacation.herokuapp.com/) - [repo](https://github.com/Talaric0/dream_multiverse_vacations-1)
 #### [Reac-tac-toe (Tic-tac-toe built using React)](https://talaric0.github.io/tic-tac-toe/) - [repo](https://github.com/Talaric0/tic-tac-toe)
+
+<!--
 #### [React-fake-airbnb](https://talaric0.github.io/react-flats/) - [repo](https://github.com/Talaric0/react-flats)
 #### [React-LeWagon-cities](https://talaric0.github.io/react-redux-wagon-cities/) - [repo](https://github.com/Talaric0/react-redux-wagon-cities)
 #### [React-gifs](https://talaric0.github.io/react-gifs/) - [repo](https://github.com/Talaric0/react-gifs)
-
+#### [Voice Memo](https://voice-memo.vercel.app/) - [repo](https://github.com/Talaric0/voice-memo)
+-->
 
 ### GitHub Stats and Most Used Languages
 
