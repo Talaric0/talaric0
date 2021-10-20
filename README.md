@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 
 My name is Bruno Talarico, a full stack developer based in London.
 
-- Teaching Assistant @ [Le Wagon](https://www.lewagon.com/).
-
-- 🔭 I’m currently working on: Mastering React.
-
-
 ### Connect with me
 
 👇 Hit in your console or terminal to see my contact info.
