@@ -35,7 +35,7 @@ npx talaric0
 [![Linkedin: BrunoTalarico]( https://img.shields.io/badge/Bruno%20Talarico%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-talarico-4421741ab/)](https://www.linkedin.com/in/bruno-talarico-4421741ab/) [![GitHub Talaric0]( https://img.shields.io/badge/Talaric0%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/talaric0)
 
 
-### Projects I've made / contributed to...
+<!-- ### Projects I've made / contributed to...
 
 #### [Take a Walk](https://take-a-walk.vercel.app/) - [repo](https://github.com/Talaric0/take-a-walk)
 #### [Chillhopify (React music player)](https://talaric0.github.io/react-music-player/) - [repo](https://github.com/Talaric0/react-music-player)
@@ -46,7 +46,7 @@ npx talaric0
 #### [React-recipes (React recipes app)](https://talaric0.github.io/react-recipes/) - [repo](https://github.com/Talaric0/react-recipes)
 #### [Indigenius (Ruby on Rails e-commerce app)](https://www.indigenius.space/) - [repo](https://github.com/seabass617/indigenius)
 #### [Dream-multiverse-vacations (Ruby on Rails e-commerce app)](http://multiverse-vacation.herokuapp.com/) - [repo](https://github.com/Talaric0/dream_multiverse_vacations-1)
-#### [Reac-tac-toe (Tic-tac-toe built using React)](https://talaric0.github.io/tic-tac-toe/) - [repo](https://github.com/Talaric0/tic-tac-toe)
+#### [Reac-tac-toe (Tic-tac-toe built using React)](https://talaric0.github.io/tic-tac-toe/) - [repo](https://github.com/Talaric0/tic-tac-toe) -->
 
 <!--
 #### [React-fake-airbnb](https://talaric0.github.io/react-flats/) - [repo](https://github.com/Talaric0/react-flats)
