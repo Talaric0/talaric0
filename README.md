@@ -61,7 +61,7 @@ npx talaric0
 [![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=talaric0&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/talaric0/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,7 +108,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2022 18:46:10 UTC
+ Last Updated on 15/08/2022 18:50:30 UTC
 <!--END_SECTION:waka-->
 
 ## Tech Skills
