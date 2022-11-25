@@ -63,7 +63,7 @@ npx talaric0
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm an Early 🐤** 
 
@@ -108,7 +108,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2022 18:38:27 UTC
+ Last Updated on 25/11/2022 18:38:05 UTC
 <!--END_SECTION:waka-->
 
 ## Tech Skills
