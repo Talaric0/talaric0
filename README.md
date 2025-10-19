@@ -1,10 +1,8 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-
-
 ### Hi, there! 👋
 
-My name is Bruno Talarico, a full stack developer based in London.
+I'm Bruno, a full stack engineer based in London.
 
 ### Connect with me
 
